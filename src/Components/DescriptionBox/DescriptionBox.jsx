@@ -1,5 +1,5 @@
 import React from 'react'
-import './DescriptionBox'
+import './DescriptionBox.css'
 
 const DescriptionBox = () => {
   return (
